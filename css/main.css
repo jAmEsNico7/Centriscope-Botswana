@@ -135,7 +135,7 @@ section{
 }
 .home p{
     text-align: center;
-    text-style: italic;
+    font: italic;
     color: #000000;
     font-size: var(--p-font);
     line-height: 1.8;
