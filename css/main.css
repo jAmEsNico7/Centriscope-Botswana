@@ -526,6 +526,9 @@ padding: 110px 3% 60px;
     grid-template-columns: 1fr;
 
 }
+section{
+padding: 90px 15% 60px;
+}
 .aboutus-img{
     text-align: center;
     order: 2;
@@ -579,5 +582,8 @@ padding: 110px 3% 60px;
         top: 100%;
 
     }
+    section{
+padding: 90px 15% 60px;
+}
         
 }
