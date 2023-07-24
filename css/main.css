@@ -348,6 +348,9 @@ font-weight: 600;
     color: var(--text-color);
     transform: translateX(5px);
 }
+.list h4{
+    color:#05fff3d5;
+}
 .contact-icons i{
     height: 45px;
     width: 45px;
